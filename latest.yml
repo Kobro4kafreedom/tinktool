@@ -1,0 +1,8 @@
+version: 1.1.48
+files:
+  - url: Kmod-Tink-Setup.exe
+    sha512: 7imSorRCU9UQF+SxrtMjkIWnLUIHOJWp/nJe8EEntOlkdWd2yRAKU5NzMyr7kLfabC1YmNsjnl9tzyJnBqTuPw==
+    size: 79428492
+path: Kmod-Tink-Setup.exe
+sha512: 7imSorRCU9UQF+SxrtMjkIWnLUIHOJWp/nJe8EEntOlkdWd2yRAKU5NzMyr7kLfabC1YmNsjnl9tzyJnBqTuPw==
+releaseDate: '2026-10-25T12:59:04.180Z'
